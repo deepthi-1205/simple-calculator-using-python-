@@ -20,8 +20,9 @@ while True:
         print(a**b)
     d=input("if you want to continue:(yes/no)")
     if(d!="yes"):
-        print("thank you")
+        print("Thank you")
         break
     
     
  
+
